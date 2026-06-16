@@ -9,7 +9,7 @@ Senior studying Computer Science at Carnegie Mellon University. I like **systems
 
 | Project | Description |
 |---|---|
-| **Optimizing Compiler** | C0 → LLVM/x86-64 compiler, written in Rust |
+| **Optimizing Compiler** | subset of C -> LLVM/x86-64 compiler, written in Rust |
 | **[s2g-aligner](https://github.com/samriddb/s2g-aligner)** | CPU/GPU-parallel, CUDA-accelerated sequence-to-graph DNA aligner |
 | **Needle** | PyTorch-like autodiff library with GPU support |
 
