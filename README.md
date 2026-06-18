@@ -2,8 +2,8 @@
 
 Senior studying Computer Science at Carnegie Mellon University. I like **systems, theory, and ML**.
 
-- 🔧 Into compilers, ML systems, parallel computing, and database systems
-- 🌐 More about me at [sbhardwaj.com](https://sbhardwaj.com)
+🔧 Into compilers, ML systems, parallel computing, and database systems
+🌐 More about me at [sbhardwaj.com](https://sbhardwaj.com)
 
 ## Projects I'm Proud Of :)
 
